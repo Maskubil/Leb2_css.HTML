@@ -6,8 +6,9 @@
 |------| -----------|
 | Kelas| : TI.20.A.1 |
 |------|------------|
-| Matkul|: Program Web|
-
+| Matkul |: Program Web |
+|-------|--------------|
 Langkah langkah peraktikum
 1. Membuat Dokumen HTML
 ![Membuat Dokumen HTML](Gambar/ss1.png)
+Selanjutnya buka pada brwoser untuk melihat hasilnya.
