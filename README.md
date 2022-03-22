@@ -17,4 +17,4 @@ Selanjutnya buka pada brwoser untuk melihat hasilnya.
 ![Mendeklarasikan css internal](Gambar/ss3.png)
 Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat
 hasilnya.
-[](Gambar/ss4.png)
+![](Gambar/ss4.png)
