@@ -22,3 +22,7 @@ hasilnya.
 
 3. Menambahkan Inline CSS
 ![](Gambar/ss3.png)
+
+4. Membuat CSS Eksternal
+Selanjutnya refresh kembali browser untuk melihat perubahannya.
+![](Gambar/ss4.png)
