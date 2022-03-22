@@ -12,3 +12,4 @@ Langkah langkah peraktikum
 1. Membuat Dokumen HTML
 ![Membuat Dokumen HTML](Gambar/ss1.png)
 Selanjutnya buka pada brwoser untuk melihat hasilnya.
+![](Gambar/ss2.png)
