@@ -26,3 +26,7 @@ hasilnya.
 4. Membuat CSS Eksternal
 Selanjutnya refresh kembali browser untuk melihat perubahannya.
 ![](Gambar/ss4.png)
+
+5. Menambahkan CSS Selector
+Kemudian simpan kembali dan refresh browser untuk melihat perubahannya.
+![](Gambar/ss5.png)
