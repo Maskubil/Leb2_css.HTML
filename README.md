@@ -1,2 +1,13 @@
 # Leb2_css.HTML
-# Fikri abei 
+
+| Nama : | Fikri abei |
+|------| ------------|
+| Nim :| 312010417 |
+|------| -----------|
+| Kelas| : TI.20.A.1 |
+|------|------------|
+| Matkul|: Program Web|
+
+Langkah langkah peraktikum
+1. Membuat Dokumen HTML
+![Membuat Dokumen HTML](Gambar/ss1.png)
